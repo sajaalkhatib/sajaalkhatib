@@ -16,9 +16,7 @@ Building Scalable Web Applications 🌐 | Clean Architecture | Real-World Soluti
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+.NET+Developer;Angular+%7C+ASP.NET+Core+%7C+SQL+Server;Clean+Code+%7C+Scalable+Systems;Exploring+Flutter+%26+Firebase&center=true&width=500&height=50">
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p>
+
 
 ## 🧑‍💻 About Me
 
@@ -63,11 +61,10 @@ Building Scalable Web Applications 🌐 | Clean Architecture | Real-World Soluti
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 
-  <!-- Others -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50"/>
+
 
 </p>
+---
 ## 💡 What I Do
 
 - 🌐 Web Applications Development (Angular + .NET Core)
