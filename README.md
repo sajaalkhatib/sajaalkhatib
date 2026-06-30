@@ -2,34 +2,34 @@
 <h1 align="center">Hi 👋, I'm Saja Al-Khatib</h1>
 
 <h3 align="center">
-Full Stack .NET Developer ⚡ | Freelance Web Developer 💼 | Angular & ASP.NET Core
+Full Stack .NET Developer ⚡ | Angular & ASP.NET Core Developer 💻
 </h3>
 
 <p align="center">
-Building Scalable Web Applications 🌐 | Clean Architecture | Real-World Solutions 🚀
+Building Modern Web Applications 🚀 | Clean Code | Real-World Solutions
 </p>
 
 ---
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+.NET+Developer;Freelance+Web+Developer;Angular+%7C+ASP.NET+Core+%7C+SQL+Server;Clean+Code+%7C+Scalable+Systems;Exploring+Flutter+%26+Firebase&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%7C+Angular+Developer;REST+APIs+%7C+SQL+Server+%7C+PostgreSQL;Clean+Code+%7C+Scalable+Systems;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-💡 Full Stack Developer (.NET + Angular)  
-💼 Freelance Web Developer working on real client projects  
-⚙️ Backend: ASP.NET Core / C#  
+💻 Full Stack Developer specializing in .NET technologies  
+⚙️ Backend: ASP.NET Core / C# / REST APIs  
 🎨 Frontend: Angular / TypeScript  
-🗄️ Database: SQL Server  
-🚀 Focus: Building scalable real-world systems  
-📱 Currently learning: Flutter, Dart, Firebase  
+🗄️ Databases: SQL Server / PostgreSQL / Oracle  
+🚀 Passionate about building scalable and maintainable web applications  
+🔐 Interested in Authentication, Authorization, and Clean Architecture  
 📍 Based in Jordan  
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -47,78 +47,90 @@ Building Scalable Web Applications 🌐 | Clean Architecture | Real-World Soluti
 <!-- Backend -->
 
 <img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-blue?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-blue?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
 <!-- Databases -->
 
 <img src="https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<!-- Mobile -->
-
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 <!-- Tools -->
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </p>
 
-
+---
 
 ## 💡 What I Do
 
-- 🌐 Web Applications Development (Angular + .NET Core)
-- 🖥️ Backend APIs (ASP.NET Core / MVC)
-- 🎨 UI Development with Angular
-- 🗄️ Database Design (SQL Server)
-- 📱 Mobile Apps (Flutter - learning phase)
+- 🌐 Full Stack Web Development
+- ⚙️ ASP.NET Core Web APIs & MVC Applications
+- 🎨 Responsive UI Development with Angular
+- 🔐 Authentication & Authorization Systems
+- 🗄️ Database Design and Optimization
+- 🚀 Building Maintainable and Scalable Applications
 
 ---
 
 ## 💼 Freelance Work
 
-- 🌐 Built complete web applications from A-Z for clients  
-- 🎯 Delivered responsive and scalable solutions  
-- 🤝 Worked directly with clients to gather requirements  
-- ⚡ Focused on clean code, performance, and user experience  
+- 🌐 Developed web applications using ASP.NET Core and Angular
+- 🤝 Worked with clients to understand requirements and deliver solutions
+- ⚡ Built responsive and user-friendly interfaces
+- 🛠️ Focused on clean code, performance, and best practices
+
+---
+
+## 📌 Featured Projects
+
+### 👥 Employee Management System
+ASP.NET Core MVC + SQL Server  
+- Employee CRUD operations
+- Department management
+- Search and filtering features
+
+### 🛒 E-Commerce Web Application
+Angular + ASP.NET Core API  
+- Product management
+- Authentication
+- Modern responsive UI
+
+### 🏢 Management Systems
+ASP.NET Core + Database Integration  
+- Business logic implementation
+- Database design
+- Full CRUD operations
 
 ---
 
 ## 📊 Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajaalkhatib&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajaalkhatib&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajaalkhatib&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajaalkhatib&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajaalkhatib&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajaalkhatib&theme=tokyonight" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-- 🧩 E-Commerce System (Angular + .NET Core)  
-- 📊 Admin Dashboard (JWT + Role Management)  
-- 🏢 Management System (CRUD + SQL Server)  
-- 📱 Flutter App (in progress 🚧)  
 
 ---
 
 ## 📫 Contact Me
 
 📧 Email: sjalkhatib@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/saja-alkhatib-a22aa4285/  
-💼 GitHub: https://github.com/sajaalkhatib  
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/saja-alkhatib-a22aa4285/
+
 
 ---
 
