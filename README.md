@@ -27,7 +27,6 @@ Building Modern Web Applications 🚀 | Clean Code | Real-World Solutions
 🌐 Deployment: SmartASP.NET & Hostinger  
 🚀 Passionate about building scalable and maintainable web applications  
 🔐 Interested in Authentication, Authorization, and Clean Architecture  
-📍 Based in Jordan  
 
 ---
 
