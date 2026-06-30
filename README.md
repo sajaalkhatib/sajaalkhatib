@@ -13,7 +13,7 @@ Building Modern Web Applications 🚀 | Clean Code | Real-World Solutions
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%7C+Angular+Developer;REST+APIs+%7C+SQL+Server+%7C+PostgreSQL;Clean+Code+%7C+Scalable+Systems;Always+Learning+New+Technologies&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%7C+Angular+Developer;REST+APIs+%7C+SQL+Server+%7C+PostgreSQL;Clean+Code+%7C+Scalable+Systems;Deployment+%7C+Real+World+Projects&center=true&width=500&height=50">
 </p>
 
 ---
@@ -24,6 +24,7 @@ Building Modern Web Applications 🚀 | Clean Code | Real-World Solutions
 ⚙️ Backend: ASP.NET Core / C# / REST APIs  
 🎨 Frontend: Angular / TypeScript  
 🗄️ Databases: SQL Server / PostgreSQL / Oracle  
+🌐 Deployment: SmartASP.NET & Hostinger  
 🚀 Passionate about building scalable and maintainable web applications  
 🔐 Interested in Authentication, Authorization, and Clean Architecture  
 📍 Based in Jordan  
@@ -57,6 +58,11 @@ Building Modern Web Applications 🚀 | Clean Code | Real-World Solutions
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
+<!-- Deployment -->
+
+<img src="https://img.shields.io/badge/SmartASP.NET-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
+
 <!-- Tools -->
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -76,13 +82,14 @@ Building Modern Web Applications 🚀 | Clean Code | Real-World Solutions
 - 🎨 Responsive UI Development with Angular
 - 🔐 Authentication & Authorization Systems
 - 🗄️ Database Design and Optimization
-- 🚀 Building Maintainable and Scalable Applications
+- 🚀 Deploying applications to production environments
 
 ---
 
 ## 💼 Freelance Work
 
 - 🌐 Developed web applications using ASP.NET Core and Angular
+- 🚀 Deployed and hosted applications using SmartASP.NET and Hostinger
 - 🤝 Worked with clients to understand requirements and deliver solutions
 - ⚡ Built responsive and user-friendly interfaces
 - 🛠️ Focused on clean code, performance, and best practices
@@ -92,22 +99,32 @@ Building Modern Web Applications 🚀 | Clean Code | Real-World Solutions
 ## 📌 Featured Projects
 
 ### 👥 Employee Management System
-ASP.NET Core MVC + SQL Server  
+**ASP.NET Core MVC + SQL Server**
+
 - Employee CRUD operations
 - Department management
 - Search and filtering features
+- Database relationships
+
+---
 
 ### 🛒 E-Commerce Web Application
-Angular + ASP.NET Core API  
+**Angular + ASP.NET Core API**
+
 - Product management
-- Authentication
-- Modern responsive UI
+- Authentication & Authorization
+- REST API integration
+- Responsive UI
+
+---
 
 ### 🏢 Management Systems
-ASP.NET Core + Database Integration  
+**ASP.NET Core + Database Integration**
+
 - Business logic implementation
 - Database design
 - Full CRUD operations
+- Real-world application structure
 
 ---
 
@@ -128,8 +145,7 @@ ASP.NET Core + Database Integration
 
 📧 Email: sjalkhatib@gmail.com  
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/saja-alkhatib-a22aa4285/
+🔗 LinkedIn: https://www.linkedin.com/in/saja-alkhatib-a22aa4285/
 
 
 ---
