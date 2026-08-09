@@ -68,11 +68,12 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sajaalkhatib&show_icons=true&hide_border=true"
-    alt="Saja's GitHub Stats"
-  />
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
 </p>
+
+
