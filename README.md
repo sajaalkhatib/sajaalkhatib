@@ -5,8 +5,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+production-ready+software;Designing+clean+and+scalable+systems;Crafting+reliable+full-stack+applications;Competitive+programming+%26+problem+solving" alt="Intro" />
   <br/>
 
-  ![GitHub](https://img.shields.io/badge/GitHub-sajaalkhatib-181717?style=for-the-badge&logo=github)
-  ![Profile views](https://komarev.com/ghpvc/?username=sajaalkhatib&style=for-the-badge&color=7c3aed)
+```html
+<p align="center">
+  <a href="mailto:sjalkhatib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saja-alkhatib-a22aa4285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+```
+
 </div>
 
 ---
