@@ -1,8 +1,13 @@
+
 <div align="center">
 
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7c3aed&height=220&section=header&text=Saja%20Alkhatib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descSize=18&descAlignY=60&descAlign=50" width="100%" />
-</div>
+  <img
+    src="./Gemini_Generated_Image_j87cjnj87cjnj87c.png"
+    width="100%"
+    alt="Saja Alkhatib - Software Engineer"
+  />
+
+  <br/><br/>
 
   <a href="mailto:sjalkhatib@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -12,9 +17,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <br/><br/>
-
 </div>
+
+---
+
 
 ## 💡 About Me
 
