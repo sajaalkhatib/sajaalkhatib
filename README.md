@@ -1,35 +1,40 @@
 <div align="center">
 
-  <!-- Header Image -->
-  <img 
+  <!-- Header -->
+  <img
     src="./Gemini_Generated_Image_j87cjnj87cjnj87c.png"
     width="100%"
     alt="Saja Alkhatib — Software Engineer"
   />
 
-  <br/><br/>
-
-  <!-- Tagline -->
-  <h3>Designing clean and scalable systems</h3>
-
   <br/>
 
-  <!-- Contact -->
+  <!-- Animated Tagline -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Designing+clean+and+scalable+systems"
+    alt="Designing clean and scalable systems"
+  />
+
+  <br/><br/>
+
+  <!-- Social Links -->
   <a href="mailto:sjalkhatib@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    <img
+      src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
 
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/saja-alkhatib-a22aa4285/">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    <img
+      src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
+
+  <br/><br/>
 
 </div>
 
