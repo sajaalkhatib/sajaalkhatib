@@ -52,6 +52,26 @@ Software Engineer / Full-Stack Engineer focused on building reliable products en
 </div>
 
 ---
+## 🧩 Competitive Programming
+
+<div align="center">
+  <!-- Codeforces Card -->
+  <a href="https://codeforces.com/profile/YOUR_HANDLE">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=YOUR_HANDLE&theme=dark" height="205" alt="Codeforces stats" />
+  </a>
+  
+  <!-- LeetCode Card -->
+  <a href="https://leetcode.com/u/YOUR_HANDLE/">
+    <img src="https://leetcard.jacoblin.cool/YOUR_HANDLE?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="205" alt="LeetCode stats and heatmap" />
+  </a>
+
+  <br/><br/>
+
+  <strong>Codeforces Rating History</strong><br/>
+  <a href="https://codeforces.com/profile/YOUR_HANDLE">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=YOUR_HANDLE&theme=dark" width="92%" alt="Live Codeforces rating history" />
+  </a>
+</div>
 
 ## 🎯 Engineering Interests
 
