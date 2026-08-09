@@ -33,18 +33,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/📍_Jordan-8B5CF6?style=for-the-badge" alt="Jordan"/>
-
-  <img src="https://img.shields.io/badge/.NET-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
+  
 </p>
-
 
 
 </div>
