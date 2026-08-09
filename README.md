@@ -68,6 +68,49 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 
 ---
 
+## Featured Projects
+
+<div align="center">
+
+  <h3>Employee Management System</h3>
+
+  <p>
+    <strong>ASP.NET Core MVC · C# · Entity Framework Core · SQL Server</strong>
+  </p>
+
+  <p>
+    Employee management system for managing employee records with
+    CRUD operations, validation, and database integration.
+  </p>
+
+  <a href="YOUR_GITHUB_REPOSITORY_LINK">
+    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <h3> Hidaya Community Academy</h3>
+
+  <p>
+    <strong>ASP.NET MVC · C# · SQL Server · Bootstrap</strong>
+  </p>
+
+  <p>
+    Full-stack educational platform for presenting academy content
+    and managing its services.
+  </p>
+
+  <a href="YOUR_GITHUB_REPOSITORY_LINK">
+    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+
+</div>
+
+
 ## 📊 GitHub Activity
 
 <p align="center">
