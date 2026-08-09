@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
   <h1>Hi 👋, I'm Saja Alkhatib</h1>
@@ -18,7 +18,6 @@
   </p>
 
 </div>
-```
 
 
 ---
