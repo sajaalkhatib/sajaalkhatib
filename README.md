@@ -66,54 +66,11 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" height="30" alt="Hostinger" />
 </p>
 
-## 📊 Contribution Activity
-
-<div align="center">
-  <strong>Live 3D Contribution Activity</strong><br/>
-  <img src="https://commitpulse.vercel.app/api/streak?user=sajaalkhatib&theme=aurora_cyberpunk" width="96%" alt="Live animated 3D GitHub contribution activity" />
-  <br/><br/>
-
-  <strong>Live Contribution Heatmap</strong><br/>
-  <img src="https://gh-heat.anishroy.com/api/sajaalkhatib/svg?theme=purple&darkMode=true&shape=circle&shadow=true&transparent=true" width="96%" alt="Live GitHub contribution heatmap" />
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajaalkhatib&bg_color=0b0d12&color=a78bfa&line=22d3ee&point=f8fafc&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="GitHub contribution activity graph" />
-</div>
-
 ---
-## 🧩 Competitive Programming
 
-<div align="center">
-  <!-- Codeforces Card -->
-  <a href="https://codeforces.com/profile/YOUR_HANDLE">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=YOUR_HANDLE&theme=dark" height="205" alt="Codeforces stats" />
-  </a>
-  
-  <!-- LeetCode Card -->
-  <a href="https://leetcode.com/u/YOUR_HANDLE/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_HANDLE?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="205" alt="LeetCode stats and heatmap" />
-  </a>
+## 📊 GitHub Stats
 
-  <br/><br/>
-
-  <strong>Codeforces Rating History</strong><br/>
-  <a href="https://codeforces.com/profile/YOUR_HANDLE">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=YOUR_HANDLE&theme=dark" width="92%" alt="Live Codeforces rating history" />
-  </a>
-</div>
-
-## 🎯 Engineering Interests
-
-<div align="center">
-  `Backend Engineering` · `System Design` · `DDD` · `Clean Architecture`  
-  `.NET 10` · `ASP.NET Core` · `PostgreSQL` · `Oracle DB` · `RESTful APIs`  
-  `Security` · `Observability` · `Testing & Performance`  
-  `Algorithms` · `Data Structures` · `Competitive Programming`
-</div>
-
-<br/>
-
-<div align="center">
-  <strong>Build useful things. Design them to last.</strong><br/>
-  <sub>Software engineering × System Design × Algorithmic Excellence</sub>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajaalkhatib&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajaalkhatib&hide_border=true&theme=transparent" height="160"/>
+</p>
