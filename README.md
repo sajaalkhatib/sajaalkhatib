@@ -71,33 +71,28 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 
 ## 🚀 Featured Projects
 
-### 🏢 Employee Management System
+###  Employee Management System
 
 *A full-stack Employee Management System built with ASP.NET Core MVC (.NET 10), following Clean Architecture principles with a layered application structure.*
 
 **Tech:** `C#` · `.NET 10` · `ASP.NET Core MVC` · `Entity Framework Core` · `SQL Server` · `Bootstrap`
 
-[View Repository](https://github.com/sajaalkhatib/Employee-Management-System)
-
 ---
 
-### 🌐 Hidaya Community Academy
+### Hidaya Community Academy
 
-*A responsive full-stack web application developed for an educational academy to showcase its content, services, and information through a user-friendly interface.*
+*Freelance project — a responsive full-stack web application developed for an educational academy to showcase its content, services, and information.*
 
 **Tech:** `C#` · `ASP.NET MVC` · `SQL Server` · `Bootstrap` · `JavaScript`
 
-[View Repository](https://github.com/sajaalkhatib/Hidaya-Community-Academy)
 
 ---
 
-### 📱 Smart Scanner
+### Smart Scanner
 
-*A smart scanning application designed to scan QR codes and barcodes, with a dashboard for managing and visualizing scanning data.*
+*Freelance project — a smart scanning application designed to scan QR codes and barcodes, with a dashboard for managing and visualizing scanning data.*
 
 **Tech:** `.NET` · `C#` · `SQL` · `HTML` · `CSS` · `JavaScript`
-
-[View Repository](https://github.com/sajaalkhatib/Smart-Scanner)
 
 
 
