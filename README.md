@@ -51,32 +51,21 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 * Continuous Growth: Always learning, improving my problem-solving skills, and exploring better ways to design and build software.
 
 ---
-<div align="center">
+## 🛠️ Tech Stack
 
-  ## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,postgres,git,github,postman,visualstudio,vscode" height="45" alt="Tech Stack" />
+</p>
 
-  <!-- Skill Icons Row -->
-  <p>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,oracle,html,css,js,ts,react,nextjs,tailwind,git,github&perline=7&theme=dark" alt="Tech Stack Icons" />
-  </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="30" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="LINQ" />
+  <img src="https://img.shields.io/badge/SmartASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="SmartASP.NET" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" height="30" alt="Hostinger" />
+</p>
 
-  <br/>
-
-  <!-- Structured Tech Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/.NET_10-ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
-    <img src="https://img.shields.io/badge/C%23-Language-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Oracle_DB-Enterprise_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Architecture-Clean_Architecture_%7C_DDD-7C3AED?style=for-the-badge" alt="Architecture" />
-    <img src="https://img.shields.io/badge/Backend-RESTful_APIs_%7C_EF_Core-0891B2?style=for-the-badge" alt="Backend" />
-    <img src="https://img.shields.io/badge/Engineering-Observability_%7C_Testing-0F766E?style=for-the-badge" alt="Engineering" />
-  </p>
-
-</div>
 ## 📊 Contribution Activity
 
 <div align="center">
