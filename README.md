@@ -16,7 +16,27 @@
   <a href="https://www.linkedin.com/in/saja-alkhatib-a22aa4285/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+<!-- Quick Tech Badges (Core Stack) -->
+  <p>
+    <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle DB" />
+    <img src="https://img.shields.io/badge/Architecture-Clean_%7C_DDD-7C3AED?style=flat-square" alt="Architecture" />
+  </p>
 
+  <!-- Profile Stats & Connect Badges -->
+  <p>
+    <a href="https://github.com/sajaalkhatib">
+      <img src="https://img.shields.io/badge/GitHub-sajaalkhatib-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/saja-alkhatib-a22aa4285/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sjalkhatib@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=sajaalkhatib&style=for-the-badge&color=7c3aed" alt="Profile Views" />
+  </p>
 </div>
 
 ---
