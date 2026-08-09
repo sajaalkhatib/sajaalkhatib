@@ -1,22 +1,25 @@
+```html
 <div align="center">
+
   <h1>Hi 👋, I'm Saja Alkhatib</h1>
   <h3>Software Engineer · Full-Stack</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+production-ready+software;Designing+clean+and+scalable+systems;Crafting+reliable+full-stack+applications;Competitive+programming+%26+problem+solving" alt="Intro" />
-  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+production-ready+software;Designing+clean+and+scalable+systems;Crafting+reliable+full-stack+applications;Problem+solving+%26+software+engineering" alt="Intro" />
 
-```html
-<p align="center">
-  <a href="mailto:sjalkhatib@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/saja-alkhatib-a22aa4285/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-```
+  <br/><br/>
+
+  <p>
+    <a href="mailto:sjalkhatib@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/saja-alkhatib-a22aa4285/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
 
 </div>
+```
+
 
 ---
 
