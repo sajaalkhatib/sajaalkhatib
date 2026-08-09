@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+modern+web+applications;Developing+with+.NET+and+Angular;Building+database-driven+solutions;Turning+ideas+into+working+software" alt="Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+practical+full-stack+applications;Developing+with+C%23+and+ASP.NET+Core;Connecting+backend%2C+frontend%2C+and+databases;Solving+problems+through+code+and+continuous+learning" alt="Intro" />
 
 <br/>
 
