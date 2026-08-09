@@ -68,47 +68,37 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 
 ---
 
-## Featured Projects
 
-<div align="center">
 
-  <h3>Employee Management System</h3>
 
-  <p>
-    <strong>ASP.NET Core MVC · C# · Entity Framework Core · SQL Server</strong>
-  </p>
+##  Featured Projects
 
-  <p>
-    Employee management system for managing employee records with
-    CRUD operations, validation, and database integration.
-  </p>
+### 🏢 Employee Management System
 
-  <a href="YOUR_GITHUB_REPOSITORY_LINK">
-    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-  </a>
+A full-stack employee management application built to handle employee records and management operations.
 
-</div>
+**Technologies:**  
+`C#` · `.NET` · `ASP.NET Core MVC` · `Entity Framework Core` · `SQL Server`
 
-<br/>
+---
 
-<div align="center">
+### 🌐 Hidaya Community Academy
 
-  <h3> Hidaya Community Academy</h3>
+A responsive full-stack web application developed for an educational academy to showcase its content and services.
 
-  <p>
-    <strong>ASP.NET MVC · C# · SQL Server · Bootstrap</strong>
-  </p>
+**Technologies:**  
+`C#` · `ASP.NET MVC` · `SQL Server` · `Bootstrap` · `JavaScript`
 
-  <p>
-    Full-stack educational platform for presenting academy content
-    and managing its services.
-  </p>
+---
 
-  <a href="YOUR_GITHUB_REPOSITORY_LINK">
-    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-  </a>
+### 📱 Smart Scanner
 
-</div>
+A web-based application focused on smart scanning and data processing, combining a practical user interface with backend functionality.
+
+**Technologies:**  
+`.NET` · `C#` · `SQL` · `HTML` · `CSS` · `JavaScript`
+
+
 
 
 ## 📊 GitHub Activity
