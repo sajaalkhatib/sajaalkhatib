@@ -1,12 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Saja%20Alkhatib&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-
-  <h2>Software Engineer · Full-Stack Developer</h2>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+production-ready+software;Designing+clean+and+scalable+systems;Crafting+reliable+full-stack+applications;Passionate+about+software+engineering" alt="Typing Intro" />
-
-  <br/><br/>
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7c3aed&height=220&section=header&text=Saja%20Alkhatib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descSize=18&descAlignY=60&descAlign=50" width="100%" />
+</div>
 
   <a href="mailto:sjalkhatib@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
