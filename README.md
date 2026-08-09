@@ -52,21 +52,26 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 
 ---
 
+---
+
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,postgres,git,github,postman,visualstudio,vscode" height="45" alt="Tech Stack" />
-</p>
+<div align="center">
+  <!-- Tech Icons (Aesthetic) -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,tailwind,postgres,oracle,git,github&perline=8&theme=dark" alt="Tech stack icons" />
+  <br/><br/>
+  
+  <!-- Detailed Badges (Matches your profile header style) -->
+  <p>
+    <img src="https://img.shields.io/badge/.NET_10-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
+    <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Oracle_DB-Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle DB" />
+    <img src="https://img.shields.io/badge/Architecture-Clean_%7C_DDD-7C3AED?style=flat-square" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Engineering-Testing_%7C_Observability-0F766E?style=flat-square" alt="Engineering" />
+  </p>
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="30" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="ASP.NET MVC" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="LINQ" />
-  <img src="https://img.shields.io/badge/SmartASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="SmartASP.NET" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" height="30" alt="Hostinger" />
-</p>
-
+---
 ## 📊 Contribution Activity
 
 <div align="center">
