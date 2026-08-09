@@ -41,13 +41,14 @@
 
 
 
-
 ## 💡 About Me
 
-Software Engineer / Full-Stack Engineer focused on building reliable products end-to-end.  
-* **Core Expertise:** Strongest around **.NET**, backend engineering, system design, databases, APIs, and full-stack architecture.
-* **Engineering Focus:** Deeply interested in **Clean Architecture**, **DDD (Domain-Driven Design)**, security, observability, testing, performance, and production readiness.
-* **Problem Solving:** Active in **Competitive Programming** to keep the algorithmic side sharp — focusing on correctness, edge cases, and time/space efficiency.
+I'm a Software Engineer / Full-Stack Developer focused on building reliable and maintainable web applications from end to end.
+
+* Core Expertise: Strong foundation in .NET, C#, ASP.NET Core, Angular, databases, REST APIs, and full-stack development.
+* Backend & Architecture: Interested in Clean Architecture, DDD, SOLID principles, and scalable backend systems.
+* Engineering Focus: Passionate about clean code, security, testing, performance, and building production-ready applications.
+* Continuous Growth: Always learning, improving my problem-solving skills, and exploring better ways to design and build software.
 
 ---
 
