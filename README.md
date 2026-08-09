@@ -68,12 +68,28 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 
 ---
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
-  <img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajaalkhatib&theme=transparent"
+    width="95%"
+    alt="GitHub Profile Details"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajaalkhatib&theme=transparent"
+    width="45%"
+    alt="Repositories per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajaalkhatib&theme=transparent"
+    width="45%"
+    alt="Most Commit Language"
+  />
+</p>
+
 
 
