@@ -51,27 +51,32 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 * Continuous Growth: Always learning, improving my problem-solving skills, and exploring better ways to design and build software.
 
 ---
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
-  <!-- Tech Icons (Aesthetic) -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,tailwind,postgres,oracle,git,github&perline=8&theme=dark" alt="Tech stack icons" />
-  <br/><br/>
-  
-  <!-- Detailed Badges (Matches your profile header style) -->
-  <p>
-    <img src="https://img.shields.io/badge/.NET_10-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
-    <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Oracle_DB-Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle DB" />
-    <img src="https://img.shields.io/badge/Architecture-Clean_%7C_DDD-7C3AED?style=flat-square" alt="Architecture" />
-    <img src="https://img.shields.io/badge/Engineering-Testing_%7C_Observability-0F766E?style=flat-square" alt="Engineering" />
-  </p>
-</div>
 
----
+  ## 🛠️ Tech Stack
+
+  <!-- Skill Icons Row -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,oracle,html,css,js,ts,react,nextjs,tailwind,git,github&perline=7&theme=dark" alt="Tech Stack Icons" />
+  </p>
+
+  <br/>
+
+  <!-- Structured Tech Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/.NET_10-ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
+    <img src="https://img.shields.io/badge/C%23-Language-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Oracle_DB-Enterprise_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Architecture-Clean_Architecture_%7C_DDD-7C3AED?style=for-the-badge" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Backend-RESTful_APIs_%7C_EF_Core-0891B2?style=for-the-badge" alt="Backend" />
+    <img src="https://img.shields.io/badge/Engineering-Observability_%7C_Testing-0F766E?style=for-the-badge" alt="Engineering" />
+  </p>
+
+</div>
 ## 📊 Contribution Activity
 
 <div align="center">
