@@ -15,7 +15,7 @@
     alt="Designing clean and scalable systems"
   />
 
-  <br/><br/>
+  <br/>
 
   <!-- Social Links -->
  <!-- Profile Stats & Connect Badges -->
