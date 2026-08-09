@@ -69,35 +69,58 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 ---
 
 
-
-
 ##  Featured Projects
 
-### 🏢 Employee Management System
+### Employee Management System
 
-A full-stack employee management application built to handle employee records and management operations.
+**ASP.NET Core MVC · .NET 10 · Clean Architecture**
 
-**Technologies:**  
-`C#` · `.NET` · `ASP.NET Core MVC` · `Entity Framework Core` · `SQL Server`
+A complete Employee Management System designed with a layered Clean Architecture approach.
+
+**Architecture**
+- Domain
+- Application
+- Infrastructure
+- Web
+
+**Technologies**
+`C#` · `.NET 10` · `ASP.NET Core MVC` · `Entity Framework Core 10` · `SQL Server` · `Bootstrap 5` · `Bootstrap Icons`
 
 ---
 
-### 🌐 Hidaya Community Academy
+###  Smart Scanner
 
-A responsive full-stack web application developed for an educational academy to showcase its content and services.
+**QR Code & Barcode Scanner · Dashboard**
 
-**Technologies:**  
-`C#` · `ASP.NET MVC` · `SQL Server` · `Bootstrap` · `JavaScript`
+A smart scanning application for reading **QR codes and barcodes**, with a dashboard for viewing and managing scanned data.
 
----
+**Features**
+- QR Code scanning
+- Barcode scanning
+- Scan data management
+- Interactive dashboard
+- Data visualization and statistics
 
-### 📱 Smart Scanner
-
-A web-based application focused on smart scanning and data processing, combining a practical user interface with backend functionality.
-
-**Technologies:**  
+**Technologies**
 `.NET` · `C#` · `SQL` · `HTML` · `CSS` · `JavaScript`
 
+---
+
+###  Hidaya Community Academy
+
+**ASP.NET MVC · SQL Server · Bootstrap**
+
+A full-stack web application developed for an educational academy to showcase its content and services.
+
+**Features**
+- Responsive user interface
+- Dynamic academy content
+- Services and information pages
+- SQL Server database integration
+- MVC architecture
+
+**Technologies**
+`C#` · `ASP.NET MVC` · `SQL Server` · `Bootstrap` · `JavaScript`
 
 
 
