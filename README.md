@@ -1,4 +1,9 @@
-<img src="https://raw.githubusercontent.com/ahmed1v0/ahmed1v0/main/assets/profile-banner.svg" width="100%" alt="Ahmed Samer — Software Engineer, Full-Stack and AI Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7C3AED&height=220&section=header&text=Saja%20Saleh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20.NET%20Developer&descAlignY=60&descSize=20" width="100%" alt="Saja Saleh — Full-Stack .NET Developer" />
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+production-ready+software;Designing+clean+and+scalable+systems;Turning+AI+models+into+useful+products;Competitive+programming+%26+problem+solving" alt="Intro" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+modern+web+applications;Developing+with+.NET+and+Angular;Building+database-driven+solutions;Turning+ideas+into+working+software" alt="Intro" />
+
 <br/>
+
+</div>
