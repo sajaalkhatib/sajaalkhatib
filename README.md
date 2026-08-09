@@ -68,65 +68,38 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 
 ---
 
----
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 ### 🏢 Employee Management System
-*A full-stack employee management application built to handle employee records and management operations efficiently.*
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
+*A full-stack Employee Management System built with ASP.NET Core MVC (.NET 10), following Clean Architecture principles with a layered application structure.*
 
-[ View Repository ](https://github.com/sajaalkhatib/Employee-Management-System)
+**Tech:** `C#` · `.NET 10` · `ASP.NET Core MVC` · `Entity Framework Core` · `SQL Server` · `Bootstrap`
 
-</div>
+[View Repository](https://github.com/sajaalkhatib/Employee-Management-System)
 
-<br/>
-
-<div align="center">
+---
 
 ### 🌐 Hidaya Community Academy
-*A responsive full-stack web application developed for an educational academy to showcase its content and services.*
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+*A responsive full-stack web application developed for an educational academy to showcase its content, services, and information through a user-friendly interface.*
 
-[ View Repository ](https://github.com/sajaalkhatib/Hidaya-Community-Academy)
+**Tech:** `C#` · `ASP.NET MVC` · `SQL Server` · `Bootstrap` · `JavaScript`
 
-</div>
+[View Repository](https://github.com/sajaalkhatib/Hidaya-Community-Academy)
 
-<br/>
-
-<div align="center">
+---
 
 ### 📱 Smart Scanner
-*A web-based application focused on smart scanning and data processing, combining a practical user interface with backend functionality.*
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+*A smart scanning application designed to scan QR codes and barcodes, with a dashboard for managing and visualizing scanning data.*
 
-[ View Repository ](https://github.com/sajaalkhatib/Smart-Scanner)
+**Tech:** `.NET` · `C#` · `SQL` · `HTML` · `CSS` · `JavaScript`
 
-</div>
+[View Repository](https://github.com/sajaalkhatib/Smart-Scanner)
+
+
 
 ---
 ## 📊 GitHub Activity
