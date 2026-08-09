@@ -5,10 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+production-ready+software;Designing+clean+and+scalable+systems;Crafting+reliable+full-stack+applications;Competitive+programming+%26+problem+solving" alt="Intro" />
   <br/>
 
-  ![GitHub](https://img.shields.io/badge/GitHub-SajaAlkhatib-181717?style=for-the-badge&logo=github)
-  ![Codeforces](https://img.shields.io/badge/Codeforces-SajaAlkhatib-1F8ACB?style=for-the-badge&logo=codeforces)
-  ![LeetCode](https://img.shields.io/badge/LeetCode-SajaAlkhatib-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-  ![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7c3aed)
+  ![GitHub](https://img.shields.io/badge/GitHub-sajaalkhatib-181717?style=for-the-badge&logo=github)
+  ![Profile views](https://komarev.com/ghpvc/?username=sajaalkhatib&style=for-the-badge&color=7c3aed)
 </div>
 
 ---
@@ -39,38 +37,18 @@ Software Engineer / Full-Stack Engineer focused on building reliable products en
 
 ---
 
-## 🧩 Competitive Programming
-
-<div align="center">
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=YOUR_CODEFORCES_HANDLE&theme=dark" height="205" alt="Codeforces stats" />
-  </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_HANDLE/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_HANDLE?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="205" alt="LeetCode stats and heatmap" />
-  </a>
-
-  <br/><br/>
-
-  <strong>Codeforces Rating History</strong><br/>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=YOUR_CODEFORCES_HANDLE&theme=dark" width="92%" alt="Live Codeforces rating history" />
-  </a>
-</div>
-
----
-
 ## 📊 Contribution Activity
 
 <div align="center">
   <strong>Live 3D Contribution Activity</strong><br/>
-  <img src="https://commitpulse.vercel.app/api/streak?user=YOUR_GITHUB_USERNAME&theme=aurora_cyberpunk" width="96%" alt="Live animated 3D GitHub contribution activity" />
+  <img src="https://commitpulse.vercel.app/api/streak?user=sajaalkhatib&theme=aurora_cyberpunk" width="96%" alt="Live animated 3D GitHub contribution activity" />
   <br/><br/>
 
   <strong>Live Contribution Heatmap</strong><br/>
-  <img src="https://gh-heat.anishroy.com/api/YOUR_GITHUB_USERNAME/svg?theme=purple&darkMode=true&shape=circle&shadow=true&transparent=true" width="96%" alt="Live GitHub contribution heatmap" />
+  <img src="https://gh-heat.anishroy.com/api/sajaalkhatib/svg?theme=purple&darkMode=true&shape=circle&shadow=true&transparent=true" width="96%" alt="Live GitHub contribution heatmap" />
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0b0d12&color=a78bfa&line=22d3ee&point=f8fafc&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajaalkhatib&bg_color=0b0d12&color=a78bfa&line=22d3ee&point=f8fafc&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="GitHub contribution activity graph" />
 </div>
 
 ---
