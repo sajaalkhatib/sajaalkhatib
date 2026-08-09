@@ -19,20 +19,33 @@
 
   <!-- Social Links -->
  <!-- Profile Stats & Connect Badges -->
-  <p>
-    <a href="https://github.com/sajaalkhatib">
-      <img src="https://img.shields.io/badge/GitHub-sajaalkhatib-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-    </a>
-    <a href="https://www.linkedin.com/in/saja-alkhatib-a22aa4285/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:sjalkhatib@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=sajaalkhatib&style=for-the-badge&color=7c3aed" alt="Profile Views" />
-  </p>
+<p align="center">
+
+  <a href="https://github.com/sajaalkhatib">
+    <img src="https://img.shields.io/badge/GitHub-sajaalkhatib-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/saja-alkhatib-a22aa4285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:sjalkhatib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
   <br/><br/>
+
+  <img src="https://img.shields.io/badge/📍_Jordan-8B5CF6?style=for-the-badge" alt="Jordan"/>
+
+  <img src="https://img.shields.io/badge/.NET-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+
+</p>
+
+
 
 </div>
 
