@@ -54,18 +54,41 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <!-- Tech Icons -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,tailwind,postgres,oracle,git,github&perline=8&theme=dark" alt="Tech stack" />
-  <br/><br/>
-  
-  <!-- Stack Badges -->
-  ![.NET 10](https://img.shields.io/badge/.NET_10-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-  ![Oracle DB](https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white)
-  ![Architecture](https://img.shields.io/badge/Architecture-Clean_%7C_DDD-7C3AED?style=flat-square)
-  ![Engineering](https://img.shields.io/badge/Engineering-Testing_%7C_Observability-0F766E?style=flat-square)
-</div>
+### 💻 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# .NET" />
+</p>
+
+**C# · ASP.NET Core · ASP.NET MVC · Entity Framework Core · LINQ · REST APIs**
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" alt="Angular TypeScript JavaScript HTML CSS Bootstrap" />
+</p>
+
+**Angular · TypeScript · JavaScript · HTML5 · CSS3 · Bootstrap · Razor Views**
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlserver,mysql" alt="PostgreSQL SQL Server MySQL" />
+</p>
+
+**PostgreSQL · SQL Server · MySQL · Database Design · SQL · Joins · Indexing · Functions · Procedures · Triggers**
+
+### 🏗️ Architecture & Engineering
+
+**Clean Architecture · MVC · OOP · SOLID · DDD · Design Patterns · API Integration**
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" alt="Git GitHub Postman Visual Studio VS Code" />
+</p>
+
+**Git · GitHub · Postman · Visual Studio · VS Code**
 
 ---
 
