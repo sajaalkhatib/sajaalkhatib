@@ -53,21 +53,18 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 ##  Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,postgres,oracle,git,github,postman,visualstudio,vscode,trello" height="50" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,postgres,oracle,mysql,git,github,postman,visualstudio,vscode,trello" height="48" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" height="30" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=.net&logoColor=white" height="28" alt="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" height="28" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=.net&logoColor=white" height="28" alt="LINQ" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" height="28" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SmartASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" height="28" alt="SmartASP.NET" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" height="28" alt="Hostinger" />
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="30" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="ASP.NET MVC" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="LINQ" />
-  <img src="https://img.shields.io/badge/SmartASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="SmartASP.NET" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" height="30" alt="Hostinger" />
-</p>
-
 
 ---
 
