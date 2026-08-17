@@ -50,7 +50,7 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 * Engineering Focus: Passionate about clean code, security, testing, performance, and building production-ready applications.
 * Continuous Growth: Always learning, improving my problem-solving skills, and exploring better ways to design and build software.
 ---
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,postgres,git,github,postman,visualstudio,vscode" height="50" />
@@ -67,7 +67,7 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ###  Employee Management System
 
@@ -95,7 +95,7 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 
 
 ---
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img
