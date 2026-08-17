@@ -41,7 +41,7 @@
 
 
 
-## 💡 About Me
+## About Me
 
 I'm a Software Engineer / Full-Stack Developer focused on building reliable and maintainable web applications from end to end.
 
@@ -49,25 +49,21 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 * Backend & Architecture: Interested in Clean Architecture, SOLID principles, and scalable backend systems.
 * Engineering Focus: Passionate about clean code, security, testing, performance, and building production-ready applications.
 * Continuous Growth: Always learning, improving my problem-solving skills, and exploring better ways to design and build software.
-
 ---
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,postgres,git,github,postman,visualstudio,vscode" height="45" alt="Tech Stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,postgres,git,github,postman,visualstudio,vscode" height="50" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="30" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="ASP.NET MVC" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="LINQ" />
-  <img src="https://img.shields.io/badge/SmartASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="SmartASP.NET" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" height="30" alt="Hostinger" />
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" height="35" />
 </p>
-
 ---
-
 
 ## 🚀 Featured Projects
 
