@@ -50,7 +50,7 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
 * Engineering Focus: Passionate about clean code, security, testing, performance, and building production-ready applications.
 * Continuous Growth: Always learning, improving my problem-solving skills, and exploring better ways to design and build software.
 ---
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,postgres,git,github,postman,visualstudio,vscode" height="45" alt="Tech Stack" />
@@ -61,8 +61,10 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="ASP.NET MVC" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="LINQ" />
+  <img src="https://img.shields.io/badge/SmartASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" height="30" alt="SmartASP.NET" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" height="30" alt="Hostinger" />
 </p>
+
 ---
 
 ##  Featured Projects
