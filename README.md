@@ -63,6 +63,8 @@ I'm a Software Engineer / Full-Stack Developer focused on building reliable and 
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" height="35" />
 </p>
+
+
 ---
 
 ## 🚀 Featured Projects
